@@ -5,22 +5,20 @@ namespace chuyensonguyen
 {
     public partial class Form1 : Form
     {
-        private ChuyenSoNguyen csn;
+        private chuyendoi csn;
 
         public Form1()
         {
             InitializeComponent();
-            csn = new ChuyenSoNguyen(); 
+            csn = new chuyendoi(); 
         }
         private void btnConvert_Click(object sender, EventArgs e)
         {
             try
             {
-               
+
                 long a = long.Parse(txtNumber.Text);
-                csn.SoCanChuyen = a;
-                csn.ThucHienChuyenDoi();
-                txtResult.Text = csn.KetQua;
+                txtResult.Text = csn.ThucHienChuyenDoi(a);
             }
             catch
             {
