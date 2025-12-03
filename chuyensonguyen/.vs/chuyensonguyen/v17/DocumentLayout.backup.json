@@ -1,30 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\",
+  "WorkspaceRootPath": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|d:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|solutionrelative:.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|d:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\chuyendoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|solutionrelative:chuyendoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|D:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\chuy\u00E9nonguyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|solutionrelative:chuy\u00E9nonguyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|d:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|solutionrelative:.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|d:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|solutionrelative:.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|D:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|d:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\chianhomso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|solutionrelative:chianhomso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|d:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\bodongdoisothanhchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|solutionrelative:bodongdoisothanhchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|d:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\kiemtranhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|solutionrelative:kiemtranhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|d:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\docnhomanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|solutionrelative:docnhomanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|d:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\docnhomviet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|solutionrelative:docnhomviet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|d:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\tudienanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|solutionrelative:tudienanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|d:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\tudienviet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0B103F-0805-43C5-AFB7-2172858D5CD8}|chuyensonguyen.csproj|solutionrelative:tudienviet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,30 +54,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "chuy\u00E9nonguyen.cs",
-              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\chuy\u00E9nonguyen.cs",
-              "RelativeDocumentMoniker": "chuy\u00E9nonguyen.cs",
-              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\chuy\u00E9nonguyen.cs",
-              "RelativeToolTip": "chuy\u00E9nonguyen.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "BoDongDoiSoThanhChu.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\BoDongDoiSoThanhChu.cs",
+              "RelativeDocumentMoniker": "BoDongDoiSoThanhChu.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\BoDongDoiSoThanhChu.cs",
+              "RelativeToolTip": "BoDongDoiSoThanhChu.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:09:02.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DocNhomAnh.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\DocNhomAnh.cs",
+              "RelativeDocumentMoniker": "DocNhomAnh.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\DocNhomAnh.cs",
+              "RelativeToolTip": "DocNhomAnh.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:08:51.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DocNhomViet.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\DocNhomViet.cs",
+              "RelativeDocumentMoniker": "DocNhomViet.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\DocNhomViet.cs",
+              "RelativeToolTip": "DocNhomViet.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:08:41.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TuDienAnh.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\TuDienAnh.cs",
+              "RelativeDocumentMoniker": "TuDienAnh.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\TuDienAnh.cs",
+              "RelativeToolTip": "TuDienAnh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:08:30.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TuDienViet.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\TuDienViet.cs",
+              "RelativeDocumentMoniker": "TuDienViet.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\TuDienViet.cs",
+              "RelativeToolTip": "TuDienViet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:08:18.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KiemTraNhap.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\KiemTraNhap.cs",
+              "RelativeDocumentMoniker": "KiemTraNhap.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\KiemTraNhap.cs",
+              "RelativeToolTip": "KiemTraNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:42:24.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChiaNhomSo.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\ChiaNhomSo.cs",
+              "RelativeDocumentMoniker": "ChiaNhomSo.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\ChiaNhomSo.cs",
+              "RelativeToolTip": "ChiaNhomSo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T02:30:48.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": ".Designer.cs",
-              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\.Designer.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\.Designer.cs",
               "RelativeDocumentMoniker": ".Designer.cs",
-              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\.Designer.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\.Designer.cs",
               "RelativeToolTip": ".Designer.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAuwH8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAiwJcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T02:28:27.671Z",
               "EditorCaption": ""
@@ -66,22 +164,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": ".cs",
-              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\.cs",
               "RelativeDocumentMoniker": ".cs",
-              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\.cs",
               "RelativeToolTip": ".cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T04:03:19.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": ".cs [Design]",
-              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\.cs",
               "RelativeDocumentMoniker": ".cs",
-              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\.cs [Design]",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\.cs [Design]",
               "RelativeToolTip": ".cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T03:58:34.417Z",
@@ -89,33 +187,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\Program.cs",
+              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\Program.cs",
+              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n tin h\u1ECDc\\chuyensonguyen\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T03:32:06.159Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "chuyendoi.cs",
-              "DocumentMoniker": "D:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\chuyendoi.cs",
-              "RelativeDocumentMoniker": "chuyendoi.cs",
-              "ToolTip": "D:\\\u0111\u1ED3 \u00E1n\\chuyensonguyen\\chuyendoi.cs",
-              "RelativeToolTip": "chuyendoi.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAowFgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T04:40:27.473Z",
+              "WhenOpened": "2025-11-04T03:32:06.159Z",
               "EditorCaption": ""
             }
           ]

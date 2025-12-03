@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ChuyenSoNguyen;
+using System;
 using System.Windows.Forms;
 
 namespace chuyensonguyen
