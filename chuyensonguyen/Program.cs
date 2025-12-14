@@ -1,8 +1,7 @@
-﻿using ChuyenSoNguyen;
-using System;
+﻿using System;
 using System.Windows.Forms;
 
-namespace chuyensonguyen
+namespace ChuyenSoThanhChu   
 {
     static class Program
     {
