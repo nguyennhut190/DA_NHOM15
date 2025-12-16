@@ -6,16 +6,15 @@ using System.Threading.Tasks;
 
 namespace chuyensonguyen
 {
-        public class SoNguyen
-        {
-            public long GiaTri { get; set; }
+    public class SoNguyen
+    {
+        public long GiaTri { get; set; }
 
-            public SoNguyen(long giaTri)
-            {
-                GiaTri = giaTri;
-            }
+        public SoNguyen(long giaTri)
+        {
+            GiaTri = giaTri;
         }
     }
-
+}
 
 

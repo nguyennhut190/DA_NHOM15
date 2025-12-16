@@ -12,7 +12,7 @@ namespace ChuyenSoThanhChu
     {
         private tudientiengviet tuDienViet = new tudientiengviet();
         private tudientienganh tuDienAnh = new tudientienganh();
-// chuyen doi tieng viet
+        // chuyen doi tieng viet
         public string ChuyenSangTiengViet(SoNguyen so)
         {
             if (so.GiaTri == 0) return "Không";
@@ -54,7 +54,7 @@ namespace ChuyenSoThanhChu
             return VietHoaChuCaiDau(ketQua.Trim());
         }
 
-        
+
         private List<int> TachNhom(long so)
         {
             List<int> ds = new List<int>();
@@ -133,4 +133,3 @@ namespace ChuyenSoThanhChu
         }
     }
 }
-
